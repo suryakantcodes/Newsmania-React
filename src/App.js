@@ -121,4 +121,4 @@ export default class App extends Component {
   }
 }
 
-// <News setProgress={this.setProgress} apiKey = {this.apiKey}  pageSize={6} country="in" category="technology"/>
+
