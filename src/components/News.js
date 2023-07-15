@@ -156,4 +156,3 @@ export class News extends Component {
 
 export default News;
 
-// let url = `https://newsapi.org/v2/top-headlines?country=india&category=business&apiKey=07090271920242369a892cab609da24d&pageSize=${this.props.pageSize}&page=${this.state.page +1}`;
